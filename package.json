@@ -1,0 +1,34 @@
+{
+    "name": "usequery",
+    "version": "0.1.0",
+    "description": "useQuery hook to read query parameters in ReactJS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gebbber/usequery"
+    },
+    "keywords": [
+        "React",
+        "ReactJS",
+        "localize",
+        "localization",
+        "language",
+        "search",
+        "query",
+        "parameters",
+        "useQuery"
+    ],
+    "author": "Gregory Everett Brandon",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gebbber/usequery/issues"
+    },
+    "homepage": "https://github.com/gebbber/usequery#readme",
+    "dependencies": {
+        "react": "^18.0.0",
+        "react-router-dom": "^6.3.0"
+    }
+}
