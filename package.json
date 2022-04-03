@@ -1,6 +1,6 @@
 {
     "name": "usequery",
-    "version": "0.1.0",
+    "version": "0.0.1",
     "description": "Simple hook to read URL query parameters in ReactJS",
     "main": "index.js",
     "scripts": {
