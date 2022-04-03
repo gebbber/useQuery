@@ -1,4 +1,4 @@
-# useQuery - simple query parameter extraction for React
+# useQuery - simple hook to read URL query parameters in ReactJS
 
 ```javascript
 // MyReactComponent.js

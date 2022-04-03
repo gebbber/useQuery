@@ -1,7 +1,7 @@
 {
     "name": "usequery",
     "version": "0.1.0",
-    "description": "useQuery hook to read query parameters in ReactJS",
+    "description": "Simple hook to read URL query parameters in ReactJS",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
