@@ -1,12 +1,20 @@
-# useQueryParams - simple hook to read URL query parameters in ReactJS
+# useQuery - simple hook to read URL query parameters in ReactJS
+
+## Installation
+
+```
+npm install @gebbber/usequery
+```
+
+## Example
 
 ```javascript
 // MyReactComponent.js
 
-import useQueryParams from 'usequeryparams';
+import useQuery from '@gebbber/usequery';
 
 function MyReactComponent() {
-    const { form, id } = useQueryParams('form id');
+    const { form, id } = useQuery('form id');
 
     return (
         <div>
