@@ -4,7 +4,7 @@ import { useLocation } from 'react-router-dom';
 // started from code at https://v5.reactrouter.com/web/example/query-parameters
 
 // needs string of space separated values to indicate which parameters to extract
-export default function useQuery(paramsSSV) {
+export default function useQueryParams(paramsSSV) {
     const { search } = useLocation();
 
     const get = useMemo(() => {
